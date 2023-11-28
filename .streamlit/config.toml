@@ -1,0 +1,15 @@
+[theme]
+
+primaryColor = '#FF9C04'
+
+backgroundColor = '#161616'
+
+secondaryBackgroundColor = '#212121'
+
+textColor = '#FFFFFF'
+
+font = "sans serif"
+
+[ui]
+
+hideTopBar = true
